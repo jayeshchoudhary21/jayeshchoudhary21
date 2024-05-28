@@ -1,8 +1,8 @@
 # 💫 About Me:
-- 🔭 I’m currently working on **React.js**<br><br>- 🌱 I’m currently learning **bootstap-5**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/jayeshchoudhary21](https://github.com/jayeshchoudhary21)<br><br>- 📝 I regularly write articles on [http://jayeshchoudhary.great-site.net/?i=1](http://jayeshchoudhary.great-site.net/?i=1)<br><br>- 💬 Ask me about **html,css,javascript,react**<br><br>- 📫 How to reach me **jayeshchoudhary5770@gmail.com**<br><br>- 📄 Know about my experiences [https://jmp.sh/s/OnbDLgrhfWrAB5HN9Jz9](https://jmp.sh/s/OnbDLgrhfWrAB5HN9Jz9)<br>
-
-<img src="https://ibb.co/GtS6YtN">
-
+ 🔭 I’m currently working on **React.js**<br><br>🌱 I’m currently learning **bootstap-5**<br><br> 👨‍💻 All of my projects are available at [https://github.com/jayeshchoudhary21](https://github.com/jayeshchoudhary21)<br><br> 📝 I regularly write articles on [http://jayeshchoudhary.great-site.net/?i=1](http://jayeshchoudhary.great-site.net/?i=1)<br><br> 💬 Ask me about **html,css,javascript,react**<br><br> 📫 How to reach me **jayeshchoudhary5770@gmail.com**<br><br> 📄 Know about my experiences [https://jmp.sh/s/OnbDLgrhfWrAB5HN9Jz9](https://jmp.sh/s/OnbDLgrhfWrAB5HN9Jz9)<br>
+<br><br>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/wwmkGwj/download.png" alt="download" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
+<br><br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thenameis_.jayesh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jayesh Choudhary) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/thisisajayesh) 
 
