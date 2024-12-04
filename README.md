@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="https://i.pinimg.com/736x/96/db/45/96db45d2ae9d7119f452bb9916b5c368.jpg" alt="GitHub Banner" width="100%" />
 
 <h1>👋 Hello, World! / Namaste Duniya<br>
 👨‍💻 I'm Jayesh Choudhary,
