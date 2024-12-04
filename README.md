@@ -1,6 +1,8 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-<h1>👋 Hello, World! / Namaste Duniya<br>I'm Jayesh Choudhary, a passionate Computer Science student<br></h1>
+<h1>👋 Hello, World! / Namaste Duniya<br>
+👨‍💻 I'm Jayesh Choudhary,
+<br>A passionate Computer Science and Engineering student<br></h1>
 
 
 # 💫 About Me:
