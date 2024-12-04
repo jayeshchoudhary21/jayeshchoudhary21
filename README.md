@@ -1,7 +1,6 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Tobi, a German Web Developer 👋🏼:
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
 
 # 💫 About Me:
 👋 Hello, World! / Namaste Duniya<br>I'm Jayesh Choudhary, a passionate Computer Science student<br>🎓 currently exploring the limitless world of technology.<br>💻 Skilled in Web Development and learning ReactJS to create engaging user experiences.<br>⚙️ Focused on improving my coding skills and building robust logic every day.<br>✨ Interested in new technologies and applying them to solve real-world problems.<br>📂 Check out my repositories for projects on [Postman challenge] and [API handling].<br>🐾 Proud pet parent to my dog Shabby, who makes coding even more fun.<br>🎵 When not coding, you'll find me listening to heartbreak music or exploring new trends.<br>🌟 Open to collaborations, internships, and exciting opportunities in IT.<br>📫 Let's connect: [Jayeshchoudhary5770@gmail.com /https://www.linkedin.com/in/jayeshc21 / https://jayeshchoudhary.great-site.net/?i=1/]!<br><br>
