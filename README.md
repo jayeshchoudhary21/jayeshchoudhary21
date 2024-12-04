@@ -1,12 +1,28 @@
-<img src="https://i.pinimg.com/736x/96/db/45/96db45d2ae9d7119f452bb9916b5c368.jpg" alt="GitHub Banner" width="100%" />
+
 
 <h1>👋 Hello, World! / Namaste Duniya<br>
 👨‍💻 I'm Jayesh Choudhary,
 <br>A passionate Computer Science and Engineering student<br></h1>
 
 
+
+
 # 💫 About Me:
-🎓 currently exploring the limitless world of technology.<br>💻 Skilled in Web Development and learning ReactJS to create engaging user experiences.<br>⚙️ Focused on improving my coding skills and building robust logic every day.<br>✨ Interested in new technologies and applying them to solve real-world problems.<br>📂 Check out my repositories for projects on [Postman challenge] and [API handling].<br>🐾 Proud pet parent to my dog Shabby, who makes coding even more fun.<br>🎵 When not coding, you'll find me listening to heartbreak music or exploring new trends.<br>🌟 Open to collaborations, internships, and exciting opportunities in IT.<br>📫 Let's connect: [Jayeshchoudhary5770@gmail.com /https://www.linkedin.com/in/jayeshc21 / https://jayeshchoudhary.great-site.net/?i=1/]!<br><br>
+
+
+
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <div style="width: 50%;">
+      <!-- Left Content -->
+      🎓 currently exploring the limitless world of technology.<br>💻 Skilled in Web Development and learning ReactJS to create engaging user experiences.<br>⚙️ Focused on improving my coding skills and building robust logic every day.<br>✨ Interested in new technologies and applying them to solve real-world problems.<br>📂 Check out my repositories for projects on [Postman challenge] and [API handling].<br>🐾 Proud pet parent to my dog Shabby, who makes coding even more fun.<br>🎵 When not coding, you'll find me listening to heartbreak music or exploring new trends.<br>🌟 Open to collaborations, internships, and exciting opportunities in IT.<br>📫 Let's connect: [Jayeshchoudhary5770@gmail.com <br>/https://www.linkedin.com/in/jayeshc21 <br>/ https://jayeshchoudhary.great-site.net/?i=1/]!<br><br>
+    </div>
+    <div style="width: 50%; text-align: right;">
+      <!-- Right Content -->
+      <img src="https://img.freepik.com/free-vector/online-games-addiction_52683-37384.jpg?ga=GA1.1.1210131489.1731506900&semt=ais_hybrid" alt="Sample Image" 
+           style="max-width: 100px; height: auto; border-radius:20px;">
+    </div>
+  </div>
 
 
 ## 🌐 Socials:
